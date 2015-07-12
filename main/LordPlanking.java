@@ -9,13 +9,12 @@ import org.parabot.environment.scripts.framework.Strategy;
 import strategies.BankingPlanks;
 import strategies.Planking;
 
-import java.text.DecimalFormat;
-import java.util.ArrayList;
-
-import java.awt.*;
 import javax.imageio.ImageIO;
+import java.awt.*;
 import java.io.IOException;
 import java.net.URL;
+import java.text.DecimalFormat;
+import java.util.ArrayList;
 
 @ScriptManifest(author = "Lord",
         category = Category.OTHER,
